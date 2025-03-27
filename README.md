@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Díaz Andrade</h1>
 <h3 align="center">Mid-Senior Full-Stack Developer from Venezuela</h3>
 
-- 🔭 I’m currently working as a **Laravel+Vue Full Stack Developer** at [Little Taller](#) (Remote, Phoenix, AZ).
+- 🔭 I’m currently working as a **Laravel+Vue Full Stack Developer** at [Little Taller](https://www.littletaller.com/) (Remote, Phoenix, AZ).
 - 🌱 I’m expanding my skills in **Musical Harmony** and data analytics – I’m currently pursuing the Google Data Analytics Professional Certificate.
 - 👯 I’m open to collaborating on innovative **Full Stack projects** that challenge and inspire.
 - 💬 Ask me about **Laravel, Vue, Node.js, Python**, and building scalable web solutions.
