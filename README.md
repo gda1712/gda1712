@@ -2,13 +2,9 @@
 <h3 align="center">Mid-Senior Full-Stack Developer from Venezuela</h3>
 
 - 🔭 I’m currently working as a **Laravel+Vue Full Stack Developer** at [Little Taller](https://www.littletaller.com/) (Remote, Phoenix, AZ).
-- 🌱 I’m expanding my skills in **Musical Harmony** and **Machine Learning**
+- 🌱 I’m expanding my skills in **Machine Learning**
 - 👯 I’m open to collaborating on innovative **AI projects** that challenge and inspire.
 - 💬 Ask me about **Laravel, Vue, Node.js, Python**, and building scalable web solutions.
-- 📫 Reach me at: gda.m1712@gmail.com
-- 📄 Explore my projects and design work on [Behance](https://www.behance.net/gabrieldazan).
-- 📝 I regularly share articles and insights on my [blog](https://crazyimagine.com/).
-
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
